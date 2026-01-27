@@ -1,0 +1,27 @@
+# Git
+.git
+.gitignore
+
+# CI/CD
+.github
+
+# Documentation
+README.md
+*.md
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
