@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: ft-home-redir # Change this to your Azure App Service name
+  AZURE_WEBAPP_NAME: ft-home-redir
 
 jobs:
   build-and-deploy:
