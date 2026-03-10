@@ -6,9 +6,9 @@ A lightweight nginx-based redirect service for Friday Threads, designed to run o
 
 This service handles HTTP redirects for the Friday Threads domain:
 
-- `/` → `https://store.fridaythreads.com`
+- `/` → `https://shop.fridaythreads.com`
 - `/store/[path]` → `https://store.fridaythreads.com/[path]`
-- All other paths → `https://store.fridaythreads.com` (fallback)
+- All other paths → `https://shop.fridaythreads.com` (fallback)
 
 ## Architecture
 
